@@ -4,7 +4,11 @@ lsd
 lsd is levenshtein distance ruby library using c++.  
 This library use swig2.0 for compile.
 
-#### how to use
+#### build  
+```
+$ ./build.sh 
+```
+#### use
 ```
 require 'lsd'
 
