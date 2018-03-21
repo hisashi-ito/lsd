@@ -1,4 +1,4 @@
 lsd
 ===
 
-編集距離計算rubyライブラリ(c++実装)
+LevenShtein Distance (lsd) ruby library using c++.
